@@ -1,0 +1,9 @@
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\bin\Debug\BasicMathOperations.exe.config
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\bin\Debug\BasicMathOperations.exe
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\bin\Debug\BasicMathOperations.pdb
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.csprojAssemblyReference.cache
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.Properties.Resources.resources
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.csproj.GenerateResource.cache
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.exe
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.pdb
+C:\Users\Laptop\Source\Repos\htlweiz\20200417-2ahet-sort-lists-Lovrodujmic1\BasicMathOperations\BasicMathOperations\obj\Debug\BasicMathOperations.titel.resources
